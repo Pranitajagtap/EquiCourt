@@ -1,0 +1,504 @@
+[
+  {
+    "id": 1,
+    "name": "Indian Penal Code (IPC)",
+    "year": 1860,
+    "category": "Criminal Law",
+    "summary": "The main criminal code of India which covers all substantive aspects of criminal law. It defines crimes and prescribes punishments for them.",
+    "sections": 511,
+    "status": "Replaced by Bharatiya Nyaya Sanhita from July 1, 2024",
+    "key_features": [
+      "Defines all criminal offences",
+      "Prescribes punishments",
+      "Based on British common law",
+      "Comprehensive coverage of crimes"
+    ],
+    "relevance": "High (historical cases still under IPC)",
+    "application_court": "All criminal courts in India",
+    "important_sections": ["302 (Murder)", "376 (Rape)", "420 (Cheating)"]
+  },
+  {
+    "id": 2,
+    "name": "Bharatiya Nyaya Sanhita (BNS)",
+    "year": 2023,
+    "category": "Criminal Law",
+    "summary": "New criminal code replacing IPC with modern provisions, gender neutrality, and inclusion of digital offences.",
+    "sections": 358,
+    "status": "Active from July 1, 2024",
+    "key_features": [
+      "Gender-neutral language",
+      "Digital offences included",
+      "Community service as punishment option",
+      "Organized crime provisions"
+    ],
+    "relevance": "Very High (new criminal law)",
+    "application_court": "All criminal courts in India"
+  },
+  {
+    "id": 3,
+    "name": "Indian Contract Act",
+    "year": 1872,
+    "category": "Civil Law",
+    "summary": "Governs contract law in India and is the key act regulating Indian contract law.",
+    "sections": 238,
+    "status": "Active",
+    "key_features": [
+      "Defines essential elements of valid contract",
+      "Doctrine of frustration",
+      "Remedies for breach of contract",
+      "Special contracts (indemnity, guarantee, bailment, pledge)"
+    ],
+    "relevance": "High",
+    "important_concepts": ["Offer & Acceptance", "Consideration", "Capacity to contract", "Free consent"]
+  },
+  {
+    "id": 4,
+    "name": "Companies Act",
+    "year": 2013,
+    "category": "Corporate Law",
+    "summary": "An Act to consolidate and amend the law relating to companies in India.",
+    "sections": 470,
+    "status": "Active",
+    "key_features": [
+      "Corporate governance norms",
+      "Corporate social responsibility",
+      "Insider trading regulations",
+      "Class action suits provision"
+    ],
+    "relevance": "High for businesses",
+    "governing_body": "Ministry of Corporate Affairs"
+  },
+  {
+    "id": 5,
+    "name": "Information Technology Act",
+    "year": 2000,
+    "category": "Cyber Law",
+    "summary": "Primary law dealing with cybercrime and electronic commerce in India.",
+    "sections": 94,
+    "status": "Active (amended in 2008)",
+    "key_features": [
+      "Legal recognition of electronic records",
+      "Digital signatures",
+      "Cybercrime definitions and penalties",
+      "Data protection provisions"
+    ],
+    "relevance": "Very High in digital age",
+    "important_sections": ["43 (Damage to computer system)", "66 (Computer related offences)", "69 (Power to intercept)"]
+  },
+  {
+    "id": 6,
+    "name": "Transfer of Property Act",
+    "year": 1882,
+    "category": "Property Law",
+    "summary": "Regulates the transfer of property in India, including sale, mortgage, lease, gift, and exchange.",
+    "sections": 137,
+    "status": "Active",
+    "key_features": [
+      "Doctrine of part performance",
+      "Rule against perpetuity",
+      "Doctrine of lis pendens",
+      "Transfer of actionable claims"
+    ],
+    "relevance": "High for property transactions",
+    "scope": "Applies to transfer of immovable property"
+  },
+  {
+    "id": 7,
+    "name": "Indian Evidence Act",
+    "year": 1872,
+    "category": "Procedural Law",
+    "summary": "Contains set of rules and allied issues governing admissibility of evidence in Indian courts.",
+    "sections": 167,
+    "status": "Replaced by Bharatiya Sakshya Adhiniyam from July 1, 2024",
+    "key_features": [
+      "Classification of evidence",
+      "Burden of proof",
+      "Estoppel",
+      "Expert testimony"
+    ],
+    "relevance": "High (historical cases)",
+    "key_concepts": ["Fact in issue", "Relevancy", "Hearsay evidence", "Confession"]
+  },
+  {
+    "id": 8,
+    "name": "Bharatiya Sakshya Adhiniyam (BSA)",
+    "year": 2023,
+    "category": "Procedural Law",
+    "summary": "New evidence law replacing Indian Evidence Act with focus on electronic evidence.",
+    "sections": 170,
+    "status": "Active from July 1, 2024",
+    "key_features": [
+      "Electronic evidence as primary evidence",
+      "Expanded definition of documents",
+      "Admissibility of digital records",
+      "Forensic evidence procedures"
+    ],
+    "relevance": "Very High (new evidence law)"
+  },
+  {
+    "id": 9,
+    "name": "Hindu Marriage Act",
+    "year": 1955,
+    "category": "Family Law",
+    "summary": "Governs marriage among Hindus including Buddhists, Jains, and Sikhs.",
+    "sections": 29,
+    "status": "Active",
+    "key_features": [
+      "Conditions for Hindu marriage",
+      "Divorce grounds",
+      "Maintenance provisions",
+      "Child custody guidelines"
+    ],
+    "relevance": "High for Hindu community",
+    "scope": "Applies to Hindus, Buddhists, Jains, Sikhs"
+  },
+  {
+    "id": 10,
+    "name": "Code of Criminal Procedure (CrPC)",
+    "year": 1973,
+    "category": "Criminal Procedure",
+    "summary": "Main legislation on procedure for administration of substantive criminal law in India.",
+    "sections": 484,
+    "status": "Replaced by Bharatiya Nagarik Suraksha Sanhita from July 1, 2024",
+    "key_features": [
+      "FIR registration procedures",
+      "Arrest rules",
+      "Bail provisions",
+      "Trial procedures"
+    ],
+    "relevance": "High (historical cases)"
+  },
+  {
+    "id": 11,
+    "name": "Bharatiya Nagarik Suraksha Sanhita (BNSS)",
+    "year": 2023,
+    "category": "Criminal Procedure",
+    "summary": "Replaces CrPC with modern criminal procedure code focusing on time-bound justice.",
+    "sections": 533,
+    "status": "Active from July 1, 2024",
+    "key_features": [
+      "Time-bound investigations",
+      "Zero FIR provision",
+      "Digital procedures",
+      "Victim-centric approach"
+    ],
+    "relevance": "Very High (new procedure law)"
+  },
+  {
+    "id": 12,
+    "name": "Motor Vehicles Act",
+    "year": 1988,
+    "category": "Transport Law",
+    "summary": "An Act to consolidate and amend the law relating to motor vehicles.",
+    "sections": 217,
+    "status": "Active (amended in 2019)",
+    "key_features": [
+      "Traffic regulations",
+      "Driving licenses",
+      "Vehicle registration",
+      "Accident compensation"
+    ],
+    "relevance": "High",
+    "key_changes_2019": ["Increased penalties", "Hit and run compensation", "Good Samaritan protection"]
+  },
+  {
+    "id": 13,
+    "name": "Protection of Women from Domestic Violence Act",
+    "year": 2005,
+    "category": "Social Justice",
+    "summary": "Provides protection to wives or female live-in partners from domestic violence.",
+    "sections": 37,
+    "status": "Active",
+    "key_features": [
+      "Civil remedy (not criminal)",
+      "Protection orders",
+      "Residence orders",
+      "Monetary relief"
+    ],
+    "relevance": "High",
+    "applicability": "All women in domestic relationships"
+  },
+  {
+    "id": 14,
+    "name": "Sexual Harassment of Women at Workplace (Prevention, Prohibition and Redressal) Act (POSH)",
+    "year": 2013,
+    "category": "Employment Law",
+    "summary": "Provides protection against sexual harassment of women at workplace.",
+    "sections": 30,
+    "status": "Active",
+    "key_features": [
+      "Mandatory Internal Complaints Committee",
+      "Definition of sexual harassment",
+      "Confidential proceedings",
+      "Protection against victimization"
+    ],
+    "relevance": "High for organizations",
+    "coverage": "All workplaces with 10+ employees"
+  },
+  {
+    "id": 15,
+    "name": "Juvenile Justice (Care and Protection of Children) Act",
+    "year": 2015,
+    "category": "Child Law",
+    "summary": "Laws relating to children alleged and found to be in conflict with law.",
+    "sections": 112,
+    "status": "Active",
+    "key_features": [
+      "Child-friendly procedures",
+      "Juvenile Justice Boards",
+      "Child Welfare Committees",
+      "Special provisions for heinous offences"
+    ],
+    "relevance": "High",
+    "age_limit": "Below 18 years"
+  },
+  {
+    "id": 16,
+    "name": "Consumer Protection Act",
+    "year": 2019,
+    "category": "Consumer Law",
+    "summary": "Provides protection to consumers from unfair trade practices and establishes authorities for settlement of consumer disputes.",
+    "sections": 107,
+    "status": "Active",
+    "key_features": [
+      "Product liability",
+      "Consumer rights",
+      "E-commerce regulations",
+      "Mediation process"
+    ],
+    "relevance": "Very High",
+    "forums": "District Commission, State Commission, National Commission"
+  },
+  {
+    "id": 17,
+    "name": "Copyright Act",
+    "year": 1957,
+    "category": "Intellectual Property",
+    "summary": "Governs the law relating to copyright in India.",
+    "sections": 79,
+    "status": "Active (amended multiple times)",
+    "key_features": [
+      "Copyright protection for literary, artistic works",
+      "Fair use provisions",
+      "Copyright term (lifetime + 60 years)",
+      "Digital rights management"
+    ],
+    "relevance": "High in creative industries"
+  },
+  {
+    "id": 18,
+    "name": "Trade Marks Act",
+    "year": 1999,
+    "category": "Intellectual Property",
+    "summary": "Governs the law relating to trademarks in India.",
+    "sections": 159,
+    "status": "Active",
+    "key_features": [
+      "Trademark registration",
+      "Well-known trademarks protection",
+      "Collective marks",
+      "Infringement remedies"
+    ],
+    "relevance": "High for businesses",
+    "governing_body": "Controller General of Patents, Designs & Trade Marks"
+  },
+  {
+    "id": 19,
+    "name": "Narcotic Drugs and Psychotropic Substances Act (NDPS)",
+    "year": 1985,
+    "category": "Drug Law",
+    "summary": "Consolidates and amends the law relating to narcotic drugs and psychotropic substances.",
+    "sections": 83,
+    "status": "Active (amended in 2014)",
+    "key_features": [
+      "Strict penalties for drug offences",
+      "Rehabilitation provisions",
+      "Asset forfeiture",
+      "Bail restrictions"
+    ],
+    "relevance": "High",
+    "key_provisions": ["Presumption of culpable mental state", "Death penalty for repeat offenders"]
+  },
+  {
+    "id": 20,
+    "name": "Negotiable Instruments Act",
+    "year": 1881,
+    "category": "Commercial Law",
+    "summary": "Defines law relating to promissory notes, bills of exchange and cheques.",
+    "sections": 147,
+    "status": "Active (amended in 2018)",
+    "key_features": [
+      "Cheque bounce provisions",
+      "Presumption of consideration",
+      "Holder in due course",
+      "Crossing of cheques"
+    ],
+    "relevance": "High in commercial transactions",
+    "important_section": "138 (Dishonour of cheque)"
+  },
+  {
+    "id": 21,
+    "name": "Scheduled Castes and Scheduled Tribes (Prevention of Atrocities) Act",
+    "year": 1989,
+    "category": "Social Justice",
+    "summary": "Prevents atrocities against members of Scheduled Castes and Scheduled Tribes.",
+    "sections": 23,
+    "status": "Active (amended in 2015, 2018)",
+    "key_features": [
+      "Special courts for speedy trial",
+      "Presumption as to offences",
+      "Enhanced penalties",
+      "Right to relief and rehabilitation"
+    ],
+    "relevance": "High",
+    "scope": "Protects SC/ST communities"
+  },
+  {
+    "id": 22,
+    "name": "Indian Forest Act",
+    "year": 1927,
+    "category": "Environmental Law",
+    "summary": "Consolidates the law relating to forests, transit of forest-produce and duty leviable on timber.",
+    "sections": 86,
+    "status": "Active",
+    "key_features": [
+      "Reserved forests",
+      "Protected forests",
+      "Village forests",
+      "Forest offences and penalties"
+    ],
+    "relevance": "High for forest conservation"
+  },
+  {
+    "id": 23,
+    "name": "Environment Protection Act",
+    "year": 1986,
+    "category": "Environmental Law",
+    "summary": "Provides for the protection and improvement of environment and prevention of hazards to human beings, living creatures, plants and property.",
+    "sections": 26,
+    "status": "Active",
+    "key_features": [
+      "Power to take measures to protect environment",
+      "Environmental standards",
+      "Restriction of areas for industries",
+      "Penalties for contravention"
+    ],
+    "relevance": "High",
+    "governing_body": "Ministry of Environment, Forest and Climate Change"
+  },
+  {
+    "id": 24,
+    "name": "Rights of Persons with Disabilities Act",
+    "year": 2016,
+    "category": "Social Justice",
+    "summary": "Replaces Persons with Disabilities Act, 1995 and provides for rights and entitlements of persons with disabilities.",
+    "sections": 102,
+    "status": "Active",
+    "key_features": [
+      "21 specified disabilities",
+      "Reservation in education and employment",
+      "Accessibility standards",
+      "Guardianship provisions"
+    ],
+    "relevance": "High",
+    "reservation": "4% in government jobs, 5% in higher education"
+  },
+  {
+    "id": 25,
+    "name": "Hindu Succession Act",
+    "year": 1956,
+    "category": "Family Law",
+    "summary": "Governs succession and inheritance laws for Hindus, Buddhists, Jains and Sikhs.",
+    "sections": 31,
+    "status": "Active (amended in 2005)",
+    "key_features": [
+      "Coparcenary property",
+      "Equal rights to daughters",
+      "Rules of succession",
+      "Testamentary succession"
+    ],
+    "relevance": "High",
+    "key_amendment_2005": "Daughters get equal rights as sons"
+  },
+  {
+    "id": 26,
+    "name": "Muslim Personal Law (Shariat) Application Act",
+    "year": 1937,
+    "category": "Family Law",
+    "summary": "Provides for application of Muslim Personal Law to Muslims in India in matters relating to marriage, divorce, inheritance, etc.",
+    "sections": 6,
+    "status": "Active",
+    "key_features": [
+      "Application of Muslim law",
+      "Matters covered: marriage, divorce, maintenance, inheritance",
+      "Optional application for agricultural land"
+    ],
+    "relevance": "High for Muslim community"
+  },
+  {
+    "id": 27,
+    "name": "Arbitration and Conciliation Act",
+    "year": 1996,
+    "category": "Alternative Dispute Resolution",
+    "summary": "Consolidates and amends the law relating to domestic arbitration, international commercial arbitration and enforcement of foreign arbitral awards.",
+    "sections": 86,
+    "status": "Active (amended in 2015, 2019, 2021)",
+    "key_features": [
+      "Time-bound arbitration",
+      "Limited court intervention",
+      "Enforcement of awards",
+      "International commercial arbitration"
+    ],
+    "relevance": "High for commercial disputes"
+  },
+  {
+    "id": 28,
+    "name": "Right to Information Act",
+    "year": 2005,
+    "category": "Governance Law",
+    "summary": "Gives citizens right to access information under control of public authorities.",
+    "sections": 31,
+    "status": "Active",
+    "key_features": [
+      "Time-bound information provision",
+      "Appeal mechanism",
+      "Penalties for non-compliance",
+      "Exemptions for certain information"
+    ],
+    "relevance": "High for transparency",
+    "time_limit": "30 days for response"
+  },
+  {
+    "id": 29,
+    "name": "Prevention of Money Laundering Act (PMLA)",
+    "year": 2002,
+    "category": "Financial Law",
+    "summary": "Prevents money-laundering and provides for confiscation of property derived from money-laundering.",
+    "sections": 75,
+    "status": "Active (amended multiple times)",
+    "key_features": [
+      "Attachment of property",
+      "Presumption of inter-connected transactions",
+      "Stringent bail conditions",
+      "International cooperation"
+    ],
+    "relevance": "High",
+    "enforcement_agency": "Enforcement Directorate (ED)"
+  },
+  {
+    "id": 30,
+    "name": "Special Marriage Act",
+    "year": 1954,
+    "category": "Family Law",
+    "summary": "Provides for a special form of marriage irrespective of religion or faith followed by either party.",
+    "sections": 51,
+    "status": "Active",
+    "key_features": [
+      "Inter-religion marriages",
+      "Registration process",
+      "Succession governed by Indian Succession Act",
+      "Divorce provisions"
+    ],
+    "relevance": "High for inter-faith couples"
+  }
+]

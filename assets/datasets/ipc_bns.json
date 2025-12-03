@@ -1,0 +1,812 @@
+{
+  "IPC-BNS Mapping Database": {
+    "version": "1.0",
+    "last_updated": "2024-01-15",
+    "sections": 50,
+    "categories": ["Body Offenses", "Property Offenses", "Women & Children", "Cyber & Technology", "Public Order"]
+  },
+  
+  "302": {
+    "ipc": {
+      "code": "302",
+      "title": "Murder",
+      "punishment": "Death or imprisonment for life and shall also be liable to fine",
+      "description": "Whoever commits murder shall be punished with death, or imprisonment for life, and shall also be liable to fine.",
+      "minimum_punishment": "Life imprisonment",
+      "maximum_punishment": "Death",
+      "bailable": "No",
+      "cognizable": "Yes",
+      "court": "Session Court"
+    },
+    "bns": {
+      "code": "103",
+      "title": "Murder",
+      "punishment": "Death or imprisonment for life and shall also be liable to fine",
+      "description": "Whoever commits murder shall be punished with death or imprisonment for life, and shall also be liable to fine.",
+      "minimum_punishment": "Life imprisonment",
+      "maximum_punishment": "Death",
+      "bailable": "No",
+      "cognizable": "Yes",
+      "court": "Session Court",
+      "year": 2023,
+      "commencement_date": "2024-07-01"
+    },
+    "changes": [
+      "Gender neutral language ('he' replaced with 'whoever')",
+      "Explicit recognition of digital evidence",
+      "Community service as alternative in certain mitigated cases",
+      "Clarified 'rarest of rare' doctrine application"
+    ],
+    "impact": "Broader interpretation possibilities, more inclusive language, digital evidence streamlined",
+    "court_practice": "Supreme Court guidelines on 'rarest of rare' still apply",
+    "key_cases": ["Bachan Singh vs State of Punjab (1980)", "Machi Singh vs State of Punjab (1983)"],
+    "practical_notes": "Investigation time reduced due to digital evidence provisions"
+  },
+
+  "304": {
+    "ipc": {
+      "code": "304",
+      "title": "Punishment for culpable homicide not amounting to murder",
+      "punishment": "Imprisonment for life, or imprisonment up to 10 years, and fine",
+      "description": "Whoever commits culpable homicide not amounting to murder shall be punished with imprisonment for life, or imprisonment of either description for a term which may extend to ten years, and shall also be liable to fine."
+    },
+    "bns": {
+      "code": "105",
+      "title": "Culpable homicide not amounting to murder",
+      "punishment": "Imprisonment for life, or imprisonment up to 10 years, and fine",
+      "changes": ["Clarified sentencing guidelines", "Restorative justice options added"]
+    },
+    "changes": ["Graded punishment structure", "Alternative dispute resolution encouraged"],
+    "impact": "More flexible sentencing, emphasis on rehabilitation"
+  },
+
+  "304B": {
+    "ipc": {
+      "code": "304B",
+      "title": "Dowry death",
+      "punishment": "Imprisonment not less than 7 years which may extend to imprisonment for life",
+      "description": "Where the death of a woman is caused by any burns or bodily injury or occurs otherwise than under normal circumstances within seven years of her marriage..."
+    },
+    "bns": {
+      "code": "80",
+      "title": "Dowry death",
+      "punishment": "Imprisonment not less than 7 years which may extend to imprisonment for life",
+      "changes": ["Expanded time period to 10 years", "Enhanced witness protection"]
+    },
+    "changes": ["Extended time period from 7 to 10 years", "Digital evidence for harassment recognized"],
+    "impact": "Better protection for married women, easier evidence collection"
+  },
+
+  "307": {
+    "ipc": {
+      "code": "307",
+      "title": "Attempt to murder",
+      "punishment": "Imprisonment up to 10 years and fine; if hurt caused, imprisonment up to life",
+      "description": "Whoever does any act with such intention or knowledge, and under such circumstances that, if he by that act caused death, he would be guilty of murder..."
+    },
+    "bns": {
+      "code": "109",
+      "title": "Attempt to murder",
+      "punishment": "Imprisonment up to 10 years and fine; if hurt caused, imprisonment up to life",
+      "changes": ["Clearer attempt definition", "Graded punishments based on injury severity"]
+    },
+    "changes": ["Specific provisions for different weapon types", "Mental health considerations added"],
+    "impact": "More precise charging, consideration of offender's mental state"
+  },
+
+  "308": {
+    "ipc": {
+      "code": "308",
+      "title": "Attempt to commit culpable homicide",
+      "punishment": "Imprisonment up to 3 years or fine or both; if hurt caused, imprisonment up to 7 years and fine"
+    },
+    "bns": {
+      "code": "110",
+      "title": "Attempt to commit culpable homicide",
+      "punishment": "Imprisonment up to 3 years or fine or both; if hurt caused, imprisonment up to 7 years and fine"
+    },
+    "changes": ["Consolidated with attempt provisions", "Clearer intent requirements"]
+  },
+
+  "309": {
+    "ipc": {
+      "code": "309",
+      "title": "Attempt to commit suicide",
+      "punishment": "Simple imprisonment up to 1 year or fine or both",
+      "status": "Decriminalized by Mental Healthcare Act, 2017"
+    },
+    "bns": {
+      "code": "NOT INCLUDED",
+      "title": "Decriminalized",
+      "reason": "Decriminalized as per Mental Healthcare Act, 2017 - Focus on treatment, not punishment"
+    },
+    "changes": ["Completely removed from penal code", "Shift to healthcare approach"],
+    "impact": "Progressive step towards mental health awareness"
+  },
+
+  "323": {
+    "ipc": {
+      "code": "323",
+      "title": "Voluntarily causing hurt",
+      "punishment": "Imprisonment up to 1 year or fine up to ₹1000 or both"
+    },
+    "bns": {
+      "code": "116",
+      "title": "Voluntarily causing hurt",
+      "punishment": "Imprisonment up to 6 months or fine up to ₹5000 or both",
+      "changes": ["Increased fine amount", "Community service option"]
+    },
+    "changes": ["Enhanced fines (₹1000 to ₹5000)", "First-time offender leniency provisions"],
+    "impact": "Deterrent through higher fines, alternative sentencing"
+  },
+
+  "324": {
+    "ipc": {
+      "code": "324",
+      "title": "Voluntarily causing hurt by dangerous weapons or means",
+      "punishment": "Imprisonment up to 3 years or fine or both"
+    },
+    "bns": {
+      "code": "117",
+      "title": "Voluntarily causing hurt by dangerous weapons or means",
+      "punishment": "Imprisonment up to 3 years or fine up to ₹10,000 or both"
+    },
+    "changes": ["Specific weapon categories defined", "Enhanced fines for repeat offenders"]
+  },
+
+  "326": {
+    "ipc": {
+      "code": "326",
+      "title": "Voluntarily causing grievous hurt by dangerous weapons or means",
+      "punishment": "Imprisonment up to life or up to 10 years and fine"
+    },
+    "bns": {
+      "code": "119",
+      "title": "Voluntarily causing grievous hurt by dangerous weapons or means",
+      "punishment": "Imprisonment up to life or up to 10 years and fine up to ₹1,00,000"
+    },
+    "changes": ["Mandatory compensation to victim", "Medical board assessment requirement"]
+  },
+
+  "354": {
+    "ipc": {
+      "code": "354",
+      "title": "Assault or criminal force to woman with intent to outrage her modesty",
+      "punishment": "Imprisonment up to 2 years or fine or both"
+    },
+    "bns": {
+      "code": "74",
+      "title": "Sexual harassment",
+      "punishment": "Imprisonment up to 3 years and fine",
+      "changes": ["Gender neutral", "Enhanced punishment", "Workplace harassment included"]
+    },
+    "changes": ["Gender neutral ('woman' to 'person')", "Enhanced punishment (2 to 3 years)", "Specific workplace provisions"],
+    "impact": "Broader protection, recognizes modern workplace harassment"
+  },
+
+  "354A": {
+    "ipc": {
+      "code": "354A",
+      "title": "Sexual harassment",
+      "punishment": "Imprisonment up to 3 years or fine or both"
+    },
+    "bns": {
+      "code": "74",
+      "title": "Sexual harassment",
+      "note": "Merged with Section 74 of BNS"
+    },
+    "changes": ["Consolidated into single comprehensive section"],
+    "impact": "Simplified legal framework"
+  },
+
+  "354B": {
+    "ipc": {
+      "code": "354B",
+      "title": "Assault or use of criminal force to woman with intent to disrobe",
+      "punishment": "Imprisonment 3 to 7 years and fine"
+    },
+    "bns": {
+      "code": "76",
+      "title": "Assault with intent to disrobe",
+      "punishment": "Imprisonment 3 to 7 years and fine"
+    },
+    "changes": ["Gender neutral language", "Enhanced victim protection measures"]
+  },
+
+  "354C": {
+    "ipc": {
+      "code": "354C",
+      "title": "Voyeurism",
+      "punishment": "1 to 3 years imprisonment and fine for first conviction; 3 to 7 years for subsequent"
+    },
+    "bns": {
+      "code": "77",
+      "title": "Voyeurism",
+      "punishment": "1 to 3 years imprisonment and fine for first conviction; 3 to 7 years for subsequent"
+    },
+    "changes": ["Includes digital voyeurism", "Stricter provisions for online sharing"]
+  },
+
+  "354D": {
+    "ipc": {
+      "code": "354D",
+      "title": "Stalking",
+      "punishment": "Up to 3 years imprisonment and fine for first conviction; up to 5 years for subsequent"
+    },
+    "bns": {
+      "code": "78",
+      "title": "Stalking",
+      "punishment": "Up to 3 years imprisonment and fine for first conviction; up to 5 years for subsequent"
+    },
+    "changes": ["Cyber-stalking specifically addressed", "Electronic evidence given priority"]
+  },
+
+  "375": {
+    "ipc": {
+      "code": "375",
+      "title": "Rape",
+      "punishment": "Imprisonment not less than 7 years which may extend to life imprisonment",
+      "description": "A man is said to commit 'rape' if he penetrates his penis, to any extent, into the vagina, mouth, urethra or anus of a woman..."
+    },
+    "bns": {
+      "code": "63",
+      "title": "Sexual offences",
+      "punishment": "Imprisonment not less than 10 years which may extend to imprisonment for life",
+      "changes": ["Gender neutral", "Expanded definition", "Enhanced minimum punishment"]
+    },
+    "changes": ["Gender neutral (applies to all persons)", "Minimum punishment increased from 7 to 10 years", "Digital penetration included"],
+    "impact": "More inclusive, recognizes diverse forms of sexual violence"
+  },
+
+  "376": {
+    "ipc": {
+      "code": "376",
+      "title": "Punishment for rape",
+      "punishment": "Rigorous imprisonment not less than 7 years which may extend to life"
+    },
+    "bns": {
+      "code": "64",
+      "title": "Punishment for sexual offences",
+      "punishment": "Rigorous imprisonment not less than 10 years which may extend to life"
+    },
+    "changes": ["Graded punishment structure", "Specific provisions for different circumstances"]
+  },
+
+  "376A": {
+    "ipc": {
+      "code": "376A",
+      "title": "Punishment for causing death or resulting in persistent vegetative state",
+      "punishment": "Imprisonment 20 years to life"
+    },
+    "bns": {
+      "code": "65",
+      "title": "Sexual assault resulting in death or persistent vegetative state",
+      "punishment": "Imprisonment 20 years to life or death"
+    },
+    "changes": ["Death penalty option added in extreme cases"]
+  },
+
+  "376AB": {
+    "ipc": {
+      "code": "376AB",
+      "title": "Punishment for rape on woman under twelve years of age",
+      "punishment": "Rigorous imprisonment not less than 20 years which may extend to life imprisonment or death"
+    },
+    "bns": {
+      "code": "66",
+      "title": "Sexual assault on child below 12 years",
+      "punishment": "Rigorous imprisonment not less than 20 years which may extend to life imprisonment or death"
+    },
+    "changes": ["Consolidated with child sexual abuse provisions"]
+  },
+
+  "376DA": {
+    "ipc": {
+      "code": "376DA",
+      "title": "Gang rape on woman under sixteen years of age",
+      "punishment": "Imprisonment for life or death"
+    },
+    "bns": {
+      "code": "67",
+      "title": "Gang sexual assault on child",
+      "punishment": "Imprisonment for life or death"
+    },
+    "changes": ["Gender neutral provisions", "Age threshold adjustments"]
+  },
+
+  "377": {
+    "ipc": {
+      "code": "377",
+      "title": "Unnatural offences",
+      "punishment": "Imprisonment for life or up to 10 years and fine",
+      "status": "Partially struck down by Supreme Court in Navtej Singh Johar case (2018)"
+    },
+    "bns": {
+      "code": "NOT INCLUDED",
+      "title": "Decriminalized for consensual acts",
+      "reason": "Supreme Court judgment decriminalized consensual same-sex relations"
+    },
+    "changes": ["Non-consensual acts covered under sexual assault provisions"],
+    "impact": "Historic judgment recognizing LGBTQ+ rights"
+  },
+
+  "378": {
+    "ipc": {
+      "code": "378",
+      "title": "Theft",
+      "punishment": "Imprisonment up to 3 years or fine or both",
+      "description": "Whoever, intending to take dishonestly any movable property out of the possession of any person without that person's consent..."
+    },
+    "bns": {
+      "code": "304",
+      "title": "Theft",
+      "punishment": "Imprisonment up to 3 years or fine or both",
+      "changes": ["Includes digital property", "Enhanced punishment for organized theft"]
+    },
+    "changes": ["Digital assets explicitly included", "Organized theft syndicates face enhanced punishment"],
+    "impact": "Modernized to include digital theft, better organized crime handling"
+  },
+
+  "379": {
+    "ipc": {
+      "code": "379",
+      "title": "Punishment for theft",
+      "punishment": "Imprisonment up to 3 years or fine or both"
+    },
+    "bns": {
+      "code": "305",
+      "title": "Punishment for theft",
+      "punishment": "Imprisonment up to 3 years or fine or both"
+    },
+    "changes": ["Separate provisions for petty theft", "Community service option for first offenders"]
+  },
+
+  "380": {
+    "ipc": {
+      "code": "380",
+      "title": "Theft in dwelling house, etc.",
+      "punishment": "Imprisonment up to 7 years and fine"
+    },
+    "bns": {
+      "code": "306",
+      "title": "Theft in dwelling house or building",
+      "punishment": "Imprisonment up to 7 years and fine"
+    },
+    "changes": ["Specific provisions for different types of premises"]
+  },
+
+  "381": {
+    "ipc": {
+      "code": "381",
+      "title": "Theft by clerk or servant of property in possession of master",
+      "punishment": "Imprisonment up to 7 years and fine"
+    },
+    "bns": {
+      "code": "307",
+      "title": "Theft by employee",
+      "punishment": "Imprisonment up to 7 years and fine"
+    },
+    "changes": ["Broader definition of 'employee'", "Includes contractual workers"]
+  },
+
+  "382": {
+    "ipc": {
+      "code": "382",
+      "title": "Theft after preparation made for causing death, hurt or restraint",
+      "punishment": "Imprisonment up to 10 years and fine"
+    },
+    "bns": {
+      "code": "308",
+      "title": "Theft with preparation for violence",
+      "punishment": "Imprisonment up to 10 years and fine"
+    }
+  },
+
+  "384": {
+    "ipc": {
+      "code": "384",
+      "title": "Extortion",
+      "punishment": "Imprisonment up to 3 years or fine or both"
+    },
+    "bns": {
+      "code": "310",
+      "title": "Extortion",
+      "punishment": "Imprisonment up to 3 years or fine or both",
+      "changes": ["Includes cyber extortion", "Enhanced punishment for organized crime"]
+    },
+    "changes": ["Cyber extortion specifically addressed", "Ransomware attacks covered"],
+    "impact": "Better equipped for digital age extortion cases"
+  },
+
+  "385": {
+    "ipc": {
+      "code": "385",
+      "title": "Putting person in fear of injury in order to commit extortion",
+      "punishment": "Imprisonment up to 2 years or fine or both"
+    },
+    "bns": {
+      "code": "311",
+      "title": "Extortion by putting in fear",
+      "punishment": "Imprisonment up to 2 years or fine or both"
+    }
+  },
+
+  "389": {
+    "ipc": {
+      "code": "389",
+      "title": "Putting person in fear of accusation of offence, in order to commit extortion",
+      "punishment": "Imprisonment up to 10 years and fine"
+    },
+    "bns": {
+      "code": "315",
+      "title": "Extortion by threat of accusation",
+      "punishment": "Imprisonment up to 10 years and fine"
+    }
+  },
+
+  "392": {
+    "ipc": {
+      "code": "392",
+      "title": "Robbery",
+      "punishment": "Rigorous imprisonment up to 10 years and fine"
+    },
+    "bns": {
+      "code": "312",
+      "title": "Robbery",
+      "punishment": "Rigorous imprisonment up to 10 years and fine"
+    }
+  },
+
+  "395": {
+    "ipc": {
+      "code": "395",
+      "title": "Dacoity",
+      "punishment": "Imprisonment for life or rigorous imprisonment up to 10 years and fine"
+    },
+    "bns": {
+      "code": "313",
+      "title": "Dacoity",
+      "punishment": "Imprisonment for life or rigorous imprisonment up to 10 years and fine"
+    }
+  },
+
+  "396": {
+    "ipc": {
+      "code": "396",
+      "title": "Murder in dacoity",
+      "punishment": "Death or imprisonment for life and fine"
+    },
+    "bns": {
+      "code": "314",
+      "title": "Murder during dacoity",
+      "punishment": "Death or imprisonment for life and fine"
+    }
+  },
+
+  "406": {
+    "ipc": {
+      "code": "406",
+      "title": "Criminal breach of trust",
+      "punishment": "Imprisonment up to 3 years or fine or both"
+    },
+    "bns": {
+      "code": "320",
+      "title": "Criminal breach of trust",
+      "punishment": "Imprisonment up to 3 years or fine or both",
+      "changes": ["Includes digital assets", "Separate provisions for professionals"]
+    }
+  },
+
+  "407": {
+    "ipc": {
+      "code": "407",
+      "title": "Criminal breach of trust by carrier, etc.",
+      "punishment": "Imprisonment up to 7 years and fine"
+    },
+    "bns": {
+      "code": "321",
+      "title": "Criminal breach of trust by carrier",
+      "punishment": "Imprisonment up to 7 years and fine"
+    }
+  },
+
+  "408": {
+    "ipc": {
+      "code": "408",
+      "title": "Criminal breach of trust by clerk or servant",
+      "punishment": "Imprisonment up to 7 years and fine"
+    },
+    "bns": {
+      "code": "322",
+      "title": "Criminal breach of trust by employee",
+      "punishment": "Imprisonment up to 7 years and fine"
+    }
+  },
+
+  "409": {
+    "ipc": {
+      "code": "409",
+      "title": "Criminal breach of trust by public servant, or by banker, merchant or agent",
+      "punishment": "Imprisonment for life or up to 10 years and fine"
+    },
+    "bns": {
+      "code": "323",
+      "title": "Criminal breach of trust by public servant or professional",
+      "punishment": "Imprisonment for life or up to 10 years and fine"
+    }
+  },
+
+  "415": {
+    "ipc": {
+      "code": "415",
+      "title": "Cheating",
+      "description": "Whoever, by deceiving any person, fraudulently or dishonestly induces the person so deceived to deliver any property..."
+    },
+    "bns": {
+      "code": "315",
+      "title": "Cheating",
+      "changes": ["Includes online cheating", "Separate provisions for different types"]
+    }
+  },
+
+  "416": {
+    "ipc": {
+      "code": "416",
+      "title": "Cheating by personation",
+      "punishment": "Imprisonment up to 3 years or fine or both"
+    },
+    "bns": {
+      "code": "316",
+      "title": "Cheating by personation",
+      "punishment": "Imprisonment up to 5 years and fine",
+      "changes": ["Enhanced punishment", "Includes digital impersonation"]
+    },
+    "changes": ["Punishment enhanced from 3 to 5 years", "Digital identity theft covered"],
+    "impact": "Stronger deterrence for impersonation crimes"
+  },
+
+  "417": {
+    "ipc": {
+      "code": "417",
+      "title": "Punishment for cheating",
+      "punishment": "Imprisonment up to 1 year or fine or both"
+    },
+    "bns": {
+      "code": "317",
+      "title": "Punishment for cheating",
+      "punishment": "Imprisonment up to 1 year or fine or both"
+    }
+  },
+
+  "418": {
+    "ipc": {
+      "code": "418",
+      "title": "Cheating with knowledge that wrongful loss may ensue to person whose interest offender is bound to protect",
+      "punishment": "Imprisonment up to 3 years or fine or both"
+    },
+    "bns": {
+      "code": "318",
+      "title": "Cheating causing wrongful loss",
+      "punishment": "Imprisonment up to 3 years or fine or both"
+    }
+  },
+
+  "420": {
+    "ipc": {
+      "code": "420",
+      "title": "Cheating and dishonestly inducing delivery of property",
+      "punishment": "Imprisonment up to 7 years and fine",
+      "description": "Whoever cheats and thereby dishonestly induces the person deceived to deliver any property to any person..."
+    },
+    "bns": {
+      "code": "319",
+      "title": "Cheating and inducing delivery of property",
+      "punishment": "Imprisonment up to 7 years and fine",
+      "changes": ["Includes online transactions", "Enhanced penalties for corporate fraud"]
+    },
+    "changes": ["Online fraud explicitly covered", "Corporate cheating has higher penalties"],
+    "impact": "Better equipped for e-commerce fraud cases"
+  },
+
+  "465": {
+    "ipc": {
+      "code": "465",
+      "title": "Forgery",
+      "punishment": "Imprisonment up to 2 years or fine or both"
+    },
+    "bns": {
+      "code": "334",
+      "title": "Forgery",
+      "punishment": "Imprisonment up to 2 years or fine or both",
+      "changes": ["Includes digital forgery", "Enhanced punishment for official documents"]
+    }
+  },
+
+  "468": {
+    "ipc": {
+      "code": "468",
+      "title": "Forgery for purpose of cheating",
+      "punishment": "Imprisonment up to 7 years and fine"
+    },
+    "bns": {
+      "code": "337",
+      "title": "Forgery for purpose of cheating",
+      "punishment": "Imprisonment up to 7 years and fine"
+    }
+  },
+
+  "471": {
+    "ipc": {
+      "code": "471",
+      "title": "Using as genuine a forged document",
+      "punishment": "Same as for forgery"
+    },
+    "bns": {
+      "code": "340",
+      "title": "Using forged document as genuine",
+      "punishment": "Same as for forgery"
+    }
+  },
+
+  "477A": {
+    "ipc": {
+      "code": "477A",
+      "title": "Falsification of accounts",
+      "punishment": "Imprisonment up to 7 years or fine or both"
+    },
+    "bns": {
+      "code": "343",
+      "title": "Falsification of accounts",
+      "punishment": "Imprisonment up to 7 years or fine or both",
+      "changes": ["Includes digital accounting systems", "Whistleblower protection added"]
+    }
+  },
+
+  "489A": {
+    "ipc": {
+      "code": "489A",
+      "title": "Counterfeiting currency notes or bank notes",
+      "punishment": "Imprisonment for life or up to 10 years and fine"
+    },
+    "bns": {
+      "code": "350",
+      "title": "Counterfeiting currency",
+      "punishment": "Imprisonment for life or up to 10 years and fine",
+      "changes": ["Includes cryptocurrency counterfeiting", "International cooperation provisions"]
+    },
+    "changes": ["Digital currency counterfeiting covered", "Cross-border investigation cooperation"],
+    "impact": "Modernized for digital financial crimes"
+  },
+
+  "498A": {
+    "ipc": {
+      "code": "498A",
+      "title": "Husband or relative of husband of a woman subjecting her to cruelty",
+      "punishment": "Imprisonment up to 3 years and fine",
+      "description": "Whoever, being the husband or the relative of the husband of a woman, subjects such woman to cruelty..."
+    },
+    "bns": {
+      "code": "85",
+      "title": "Cruelty by husband or relatives of husband",
+      "punishment": "Imprisonment up to 3 years and fine",
+      "changes": ["Clarified definitions", "Procedural safeguards added"]
+    },
+    "changes": ["Specific definition of 'cruelty'", "Pre-arrest scrutiny provisions", "Mediation option"],
+    "impact": "Balanced approach, prevents misuse while protecting victims"
+  },
+
+  "499": {
+    "ipc": {
+      "code": "499",
+      "title": "Defamation",
+      "punishment": "Simple imprisonment up to 2 years or fine or both",
+      "description": "Whoever, by words either spoken or intended to be read... makes or publishes any imputation concerning any person..."
+    },
+    "bns": {
+      "code": "354",
+      "title": "Defamation",
+      "punishment": "Simple imprisonment up to 2 years or fine or both",
+      "changes": ["Includes online defamation", "Enhanced penalties for repeat offenders"]
+    },
+    "changes": ["Social media defamation covered", "Truth as defense clarified"],
+    "impact": "Addresses modern forms of defamation"
+  },
+
+  "503": {
+    "ipc": {
+      "code": "503",
+      "title": "Criminal intimidation",
+      "punishment": "Imprisonment up to 2 years or fine or both"
+    },
+    "bns": {
+      "code": "356",
+      "title": "Criminal intimidation",
+      "punishment": "Imprisonment up to 2 years or fine or both",
+      "changes": ["Includes cyber intimidation", "Specific threats categorized"]
+    }
+  },
+
+  "506": {
+    "ipc": {
+      "code": "506",
+      "title": "Punishment for criminal intimidation",
+      "punishment": "Imprisonment up to 2 years or fine or both; if threat to cause death/grievous hurt, imprisonment up to 7 years or fine or both"
+    },
+    "bns": {
+      "code": "357",
+      "title": "Punishment for criminal intimidation",
+      "punishment": "Imprisonment up to 2 years or fine or both; if threat to cause death/grievous hurt, imprisonment up to 7 years or fine or both"
+    }
+  },
+
+  "509": {
+    "ipc": {
+      "code": "509",
+      "title": "Word, gesture or act intended to insult the modesty of a woman",
+      "punishment": "Simple imprisonment up to 1 year or fine or both"
+    },
+    "bns": {
+      "code": "358",
+      "title": "Insult to modesty",
+      "punishment": "Simple imprisonment up to 1 year or fine or both",
+      "changes": ["Gender neutral", "Includes online insults"]
+    }
+  },
+
+  "511": {
+    "ipc": {
+      "code": "511",
+      "title": "Punishment for attempting to commit offences punishable with imprisonment for life or other imprisonment",
+      "description": "General attempt provision"
+    },
+    "bns": {
+      "code": "GENERAL PROVISION",
+      "title": "Attempt to commit offences",
+      "note": "General attempt provisions incorporated throughout BNS"
+    }
+  },
+
+  "120B": {
+    "ipc": {
+      "code": "120B",
+      "title": "Criminal conspiracy",
+      "punishment": "Same as for abetment of offence"
+    },
+    "bns": {
+      "code": "61",
+      "title": "Criminal conspiracy",
+      "punishment": "Same as for abetment of offence",
+      "changes": ["Digital communication evidence emphasized", "Organized crime focus"]
+    }
+  },
+
+  "121": {
+    "ipc": {
+      "code": "121",
+      "title": "Waging, or attempting to wage war, or abetting waging of war, against the Government of India",
+      "punishment": "Death or imprisonment for life and fine"
+    },
+    "bns": {
+      "code": "144",
+      "title": "Waging war against Government of India",
+      "punishment": "Death or imprisonment for life and fine"
+    }
+  },
+
+  "124A": {
+    "ipc": {
+      "code": "124A",
+      "title": "Sedition",
+      "punishment": "Imprisonment for life or up to 3 years and fine",
+      "status": "Under Supreme Court review, currently stayed"
+    },
+    "bns": {
+      "code": "152",
+      "title": "Acts endangering sovereignty, unity and integrity of India",
+      "punishment": "Imprisonment up to 7 years or life imprisonment",
+      "changes": ["Replaces sedition", "Narrower, more specific provisions"]
+    },
+    "changes": ["Sedition replaced with more specific offense", "Requires actual violence or incitement"],
+    "impact": "More precise, prevents misuse for political criticism"
+  }
+}
